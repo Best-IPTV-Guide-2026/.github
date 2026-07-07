@@ -45,8 +45,6 @@ If you're looking for reliable information before choosing an IPTV service, <a h
 
 **Benefits of IPTVPickr:**
 
-Helps users compare different IPTV services
-
 Publishes detailed IPTV reviews and buying guides
 
 Offers setup tutorials for popular streaming devices
