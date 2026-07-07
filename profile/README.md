@@ -4,7 +4,7 @@
 
 <a href="https://liveiptvnow.com/?ref=22933834">🔥 View Plans </a>
 
-**Tested Iptv 2026**
+**Tested Iptv 2026:**
 
 **Live IPTV Now**
 
