@@ -32,7 +32,8 @@ Multi-device compatibility
 Customer support for setup and technical assistance
 
 
-**IPTVPickr**
+
+**IPTVPickr:**
 
 <a href="https://www.iptvpickr.com/">IPTVPickr </a>
  is an online platform dedicated to helping users discover and compare IPTV services. Instead of being an IPTV provider itself, IPTVPickr publishes reviews, buying guides, setup tutorials, and comparisons to help readers choose an IPTV service that fits their needs. The platform covers topics such as IPTV apps, streaming devices, provider features, pricing, and troubleshooting tips, making it a useful resource for both beginners and experienced users.
