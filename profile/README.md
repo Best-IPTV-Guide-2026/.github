@@ -149,7 +149,7 @@ You can watch:
 - Kids' channels
 - International programming
 
----
+--
 
 ## Affordable Pricing
 
@@ -163,7 +163,7 @@ Users can usually choose from:
 
 This flexibility helps users find a plan that fits their budget.
 
----
+--
 
 ## Video on Demand (VOD)
 
